@@ -5,8 +5,7 @@
 ## Sobre este documento
 
 Esta é uma base de conhecimento criada como projeto de
-portfólio para demonstrar capacidade de documentação técnica — uma das
-habilidades mais valorizadas em vagas de Help Desk júnior.
+portfólio para demonstrar capacidade de documentação técnica.
 
 Cada artigo segue um padrão usado em bases de conhecimento reais de suporte
 técnico: sintomas, causa provável, passo a passo de resolução, tempo estimado
