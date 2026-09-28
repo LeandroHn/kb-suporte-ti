@@ -275,4 +275,3 @@ infraestrutura.
   verificação de identidade, tempo estimado e critério de quando pedir ajuda
 
 **Autor:** [Leandro]
-**Data:** setembro de 2026
