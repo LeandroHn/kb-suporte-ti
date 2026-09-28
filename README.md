@@ -1,6 +1,6 @@
 # Base de Conhecimento — Suporte Técnico (Help Desk)
 
-**Projeto de portfólio | Área: Suporte Técnico / Help Desk**
+**Projeto | Área: Suporte Técnico / Help Desk**
 
 ## Sobre este documento
 
