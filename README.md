@@ -4,7 +4,7 @@
 
 ## Sobre este documento
 
-Esta é uma base de conhecimento (Knowledge Base / KB) criada como projeto de
+Esta é uma base de conhecimento criada como projeto de
 portfólio para demonstrar capacidade de documentação técnica — uma das
 habilidades mais valorizadas em vagas de Help Desk júnior.
 
